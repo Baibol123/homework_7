@@ -9,13 +9,6 @@ public abstract class Hero implements HavingSuperAbility {
     }
 
 
-    public int getHealth() {
-        return health;
-    }
-
-    public int getDamage() {
-        return damage;
-    }
 
     public String getSuperPower() {
         return superPower;
